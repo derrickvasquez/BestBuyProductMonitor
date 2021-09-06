@@ -1,0 +1,4 @@
+requests
+BeautifulSoup
+discord.py
+colorama

@@ -1,6 +1,6 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-webhook = DiscordWebhook(url='https://discord.com/api/webhooks/884318606672941067/VrL-e2TYFwKy4NBm5FAzYPx4ClLFlNkNn9VB708txqKbyKANj0GjbwlqSS-va06gd4Uo', username="JUICE")
+webhook = DiscordWebhook(url='ENTER WEBHOOK URL HERE', username="JUICE")
 
 def send_hook(product_title, url, price, sku, imageURL, direct_link):
     embed = DiscordEmbed(title = product_title, description='PRODUCT AVAILABLE', color='03b2f8')
