@@ -1,5 +1,8 @@
 # BestBuy Monitor w/ Discord Notifications
 
+# WARNING: THE POSSIBILITY OF USING THIS MONITOR MIGHT RESULT IN GETTING IP BANNED. USE AT YOUR OWN RISK. 
+
+
 This is a python script that monitors for various products on the BestBuy wesbite. This has the potential to be a way to combat other resellers and scalpers, and obtain the item you've been failing to get. 
 
 ## Using the Monitor
