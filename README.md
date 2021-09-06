@@ -10,9 +10,10 @@ This is a python script that monitors for various products on the BestBuy wesbit
 Download the latest version pf Python
 
 Clone the repo, update the following items to whatever you desire:
-    - item(s) webpage url
-    - webhook url
-    - author
+
+- item(s) webpage url
+- webhook url
+- author
 
 In your terminal, run the following:
 
